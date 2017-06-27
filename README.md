@@ -58,10 +58,10 @@ Say what the step will be
 Dependencies: storageService, ui.router 
 Environment:  Angular.js 1.6, Bootstrap 3.3.7, jquery 1.11, HTML5, CSS3, Visual Studio Code, Xamp. 
 Project Strucure: customeeentryspec--lib--angular-ui-router.min.js
-										--angular.js
-										--angular.min.js
-										--bootstrap.min.js
-										--jquery.js
+									--angular.js
+									--angular.min.js
+									--bootstrap.min.js
+									--jquery.js
 
 								   --js --app.js
 								        --controller.js
@@ -71,7 +71,7 @@ Project Strucure: customeeentryspec--lib--angular-ui-router.min.js
 									
 									--fonts------
 								
-								    -- add.html
+								        -- add.html
 									-- list.html
 									-- index.html
 									-- Readme.md
