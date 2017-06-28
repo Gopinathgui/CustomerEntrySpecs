@@ -56,7 +56,7 @@ Say what the step will be
 ## Version & App Structure.
 
 Dependencies: storageService, ui.router 
-Environment:  Angular.js 1.6, Bootstrap 3.3.7, jquery 1.11, HTML5, CSS3, Visual Studio Code, Xamp. 
+Environment:  Angular.js 1.4, Bootstrap 3.3.7, jquery 1.11, HTML5, CSS3, Visual Studio Code, Xamp. 
 Project Strucure: customerentryspec--lib--angular-ui-router.min.js
 									--angular.js
 									--angular.min.js
